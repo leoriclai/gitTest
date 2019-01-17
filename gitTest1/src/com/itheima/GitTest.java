@@ -7,5 +7,7 @@ public class GitTest {
         System.out.println("first");
         System.out.println("master修改 ");
 
+        System.out.println("1859 master");
+
     }
 }
