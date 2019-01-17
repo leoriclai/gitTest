@@ -5,5 +5,7 @@ public class GitTest {
 
 
         System.out.println("first");
+        System.out.println("master修改 ");
+
     }
 }
